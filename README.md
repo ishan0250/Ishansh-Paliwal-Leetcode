@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,4 +21,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Math
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Binary Search
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
