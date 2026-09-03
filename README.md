@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
