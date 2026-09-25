@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0013-roman-to-integer) |
 | [0115-distinct-subsequences](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0115-distinct-subsequences) |
+| [1096-brace-expansion-ii](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0013-roman-to-integer) |
+| [1096-brace-expansion-ii](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -162,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
