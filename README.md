@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0013-roman-to-integer) |
+| [0507-perfect-number](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0507-perfect-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1927-sum-game) |
