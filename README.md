@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0204-count-primes) |
 | [0977-squares-of-a-sorted-array](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0013-roman-to-integer) |
+| [0204-count-primes](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0507-perfect-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0204-count-primes) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## String
 |  |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0204-count-primes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -185,4 +189,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
