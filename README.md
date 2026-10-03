@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0115-distinct-subsequences) |
 | [1096-brace-expansion-ii](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0115-distinct-subsequences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -185,12 +187,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Primality Test
