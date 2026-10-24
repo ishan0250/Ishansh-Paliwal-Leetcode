@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0115-distinct-subsequences) |
 | [0301-remove-invalid-parentheses](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0771-jewels-and-stones](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0013-roman-to-integer) |
+| [0771-jewels-and-stones](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0771-jewels-and-stones) |
 | [1096-brace-expansion-ii](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
