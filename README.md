@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3498-reverse-degree-of-a-string](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
