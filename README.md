@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3921-score-validator](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3921-score-validator) |
+| [3934-smallest-unique-subarray](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Two Pointers
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3934-smallest-unique-subarray](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -319,4 +322,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
