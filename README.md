@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0204-count-primes](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0204-count-primes) |
 | [0977-squares-of-a-sorted-array](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1254-number-of-closed-islands](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1254-number-of-closed-islands) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ishan0250/Ishansh-Paliwal-Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
